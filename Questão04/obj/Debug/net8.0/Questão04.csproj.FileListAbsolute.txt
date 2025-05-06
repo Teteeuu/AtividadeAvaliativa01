@@ -1,0 +1,14 @@
+C:\Users\mathe\OneDrive\Documentos\TopicosEspeciais\AtividadeAvaliativa\Questão04\bin\Debug\net8.0\Questão04.exe
+C:\Users\mathe\OneDrive\Documentos\TopicosEspeciais\AtividadeAvaliativa\Questão04\bin\Debug\net8.0\Questão04.deps.json
+C:\Users\mathe\OneDrive\Documentos\TopicosEspeciais\AtividadeAvaliativa\Questão04\bin\Debug\net8.0\Questão04.runtimeconfig.json
+C:\Users\mathe\OneDrive\Documentos\TopicosEspeciais\AtividadeAvaliativa\Questão04\bin\Debug\net8.0\Questão04.dll
+C:\Users\mathe\OneDrive\Documentos\TopicosEspeciais\AtividadeAvaliativa\Questão04\bin\Debug\net8.0\Questão04.pdb
+C:\Users\mathe\OneDrive\Documentos\TopicosEspeciais\AtividadeAvaliativa\Questão04\obj\Debug\net8.0\Questão04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Documentos\TopicosEspeciais\AtividadeAvaliativa\Questão04\obj\Debug\net8.0\Questão04.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documentos\TopicosEspeciais\AtividadeAvaliativa\Questão04\obj\Debug\net8.0\Questão04.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documentos\TopicosEspeciais\AtividadeAvaliativa\Questão04\obj\Debug\net8.0\Questão04.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documentos\TopicosEspeciais\AtividadeAvaliativa\Questão04\obj\Debug\net8.0\Questão04.dll
+C:\Users\mathe\OneDrive\Documentos\TopicosEspeciais\AtividadeAvaliativa\Questão04\obj\Debug\net8.0\refint\Questão04.dll
+C:\Users\mathe\OneDrive\Documentos\TopicosEspeciais\AtividadeAvaliativa\Questão04\obj\Debug\net8.0\Questão04.pdb
+C:\Users\mathe\OneDrive\Documentos\TopicosEspeciais\AtividadeAvaliativa\Questão04\obj\Debug\net8.0\Questão04.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Documentos\TopicosEspeciais\AtividadeAvaliativa\Questão04\obj\Debug\net8.0\ref\Questão04.dll

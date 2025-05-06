@@ -1,0 +1,14 @@
+C:\Users\mathe\OneDrive\Documentos\TopicosEspeciais\AULA29-04\bin\Debug\net8.0\AULA29-04.exe
+C:\Users\mathe\OneDrive\Documentos\TopicosEspeciais\AULA29-04\bin\Debug\net8.0\AULA29-04.deps.json
+C:\Users\mathe\OneDrive\Documentos\TopicosEspeciais\AULA29-04\bin\Debug\net8.0\AULA29-04.runtimeconfig.json
+C:\Users\mathe\OneDrive\Documentos\TopicosEspeciais\AULA29-04\bin\Debug\net8.0\AULA29-04.dll
+C:\Users\mathe\OneDrive\Documentos\TopicosEspeciais\AULA29-04\bin\Debug\net8.0\AULA29-04.pdb
+C:\Users\mathe\OneDrive\Documentos\TopicosEspeciais\AULA29-04\obj\Debug\net8.0\AULA29-04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Documentos\TopicosEspeciais\AULA29-04\obj\Debug\net8.0\AULA29-04.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documentos\TopicosEspeciais\AULA29-04\obj\Debug\net8.0\AULA29-04.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documentos\TopicosEspeciais\AULA29-04\obj\Debug\net8.0\AULA29-04.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documentos\TopicosEspeciais\AULA29-04\obj\Debug\net8.0\AULA29-04.dll
+C:\Users\mathe\OneDrive\Documentos\TopicosEspeciais\AULA29-04\obj\Debug\net8.0\refint\AULA29-04.dll
+C:\Users\mathe\OneDrive\Documentos\TopicosEspeciais\AULA29-04\obj\Debug\net8.0\AULA29-04.pdb
+C:\Users\mathe\OneDrive\Documentos\TopicosEspeciais\AULA29-04\obj\Debug\net8.0\AULA29-04.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Documentos\TopicosEspeciais\AULA29-04\obj\Debug\net8.0\ref\AULA29-04.dll

@@ -1,0 +1,14 @@
+C:\Users\mathe\OneDrive\Documentos\TopicosEspeciais\Questão10\bin\Debug\net8.0\Questão10.exe
+C:\Users\mathe\OneDrive\Documentos\TopicosEspeciais\Questão10\bin\Debug\net8.0\Questão10.deps.json
+C:\Users\mathe\OneDrive\Documentos\TopicosEspeciais\Questão10\bin\Debug\net8.0\Questão10.runtimeconfig.json
+C:\Users\mathe\OneDrive\Documentos\TopicosEspeciais\Questão10\bin\Debug\net8.0\Questão10.dll
+C:\Users\mathe\OneDrive\Documentos\TopicosEspeciais\Questão10\bin\Debug\net8.0\Questão10.pdb
+C:\Users\mathe\OneDrive\Documentos\TopicosEspeciais\Questão10\obj\Debug\net8.0\Questão10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Documentos\TopicosEspeciais\Questão10\obj\Debug\net8.0\Questão10.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documentos\TopicosEspeciais\Questão10\obj\Debug\net8.0\Questão10.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documentos\TopicosEspeciais\Questão10\obj\Debug\net8.0\Questão10.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documentos\TopicosEspeciais\Questão10\obj\Debug\net8.0\Questão10.dll
+C:\Users\mathe\OneDrive\Documentos\TopicosEspeciais\Questão10\obj\Debug\net8.0\refint\Questão10.dll
+C:\Users\mathe\OneDrive\Documentos\TopicosEspeciais\Questão10\obj\Debug\net8.0\Questão10.pdb
+C:\Users\mathe\OneDrive\Documentos\TopicosEspeciais\Questão10\obj\Debug\net8.0\Questão10.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Documentos\TopicosEspeciais\Questão10\obj\Debug\net8.0\ref\Questão10.dll
